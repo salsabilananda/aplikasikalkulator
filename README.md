@@ -1,2 +1,2 @@
 # aplikasikalkulator
-Aplikasi Kalkulator Sederhana menggunakan Bahasa Pemrograman Dart
+Mobile App Calculator
